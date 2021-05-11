@@ -46,7 +46,7 @@
 	<div class="container">
 	<div class="row">
 	<div class="col-md-4 Kitchen">
-		<img src="Image/Kitchen.png" />
+		<img src="Image/Kitchenimage.png" />
 		<div class="texte_centrer">
 		Kitchen
 		</div>
